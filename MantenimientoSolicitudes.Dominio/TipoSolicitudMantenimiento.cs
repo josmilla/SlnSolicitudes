@@ -3,7 +3,7 @@
     public enum TipoSolicitudMantenimiento
 
     {
-        Jadin,
+        Jardin,
         Pintura,
         Electrica,
         Construccion
